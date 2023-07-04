@@ -1,0 +1,242 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.99,
+            121.42
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di darat 9 km timur Morowali Utara",
+          "dateTime": "2023-07-02T17:13:11+00:00",
+          "magnitude": "3.0"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -1.74,
+            133.87
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di darat 43 km BaratDaya Ransiki",
+          "dateTime": "2023-07-02T11:40:28+00:00",
+          "magnitude": "4.5"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.55,
+            115.87
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di laut 33 km BaratLaut Lombok Barat",
+          "dateTime": "2023-07-02T00:57:11+00:00",
+          "magnitude": "3.3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -7.89,
+            117.66
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di laut 71 km Timur Laut Sumbawa",
+          "dateTime": "2023-07-01T18:44:18+00:00",
+          "magnitude": "5.0"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.63,
+            110.08
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di Laut 86 Km BaratDaya Bantul",
+          "dateTime": "2023-06-30T12:57:43+00:00",
+          "magnitude": "6.4"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -0.59,
+            122.44
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada dilaut 103Km BaratLaut Banggai Kepulauan",
+          "dateTime": "2023-06-30T10:37:31+00:00",
+          "magnitude": "5.3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2.01,
+            99.03
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di darat 7 km Tenggara Tapanuli Utara",
+          "dateTime": "2023-06-29T10:57:56+00:00",
+          "magnitude": "3.3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.65,
+            140.44
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di darat 8 km tenggara Jayapura",
+          "dateTime": "2023-06-29T01:13:07+00:00",
+          "magnitude": "3.2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -2.86,
+            122.36
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di laut 19 km Timur Laut Lafeu Kab.Morowali",
+          "dateTime": "2023-06-28T05:03:52+00:00",
+          "magnitude": "4.6"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -7.35,
+            130.22
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di laut 139 km BaratLaut Tanibar",
+          "dateTime": "2023-06-27T16:55:17+00:00",
+          "magnitude": "5.5"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -6.95,
+            105.4
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di laut 37 km BaratDaya Sumur",
+          "dateTime": "2023-06-27T13:32:59+00:00",
+          "magnitude": "4.3"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -8.37,
+            108.92
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di laut 72 km BaratDaya Cilacap",
+          "dateTime": "2023-06-27T03:48:03+00:00",
+          "magnitude": "4.2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            5.27,
+            95.73
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di darat 13 Km TimurLaut Jantho, Aceh Besar",
+          "dateTime": "2023-06-27T03:13:08+00:00",
+          "magnitude": "4.0"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            98.98
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di darat 15 km BaratDaya Sibolga",
+          "dateTime": "2023-06-27T00:27:30+00:00",
+          "magnitude": "3.2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            2,
+            98.98
+          ]
+        },
+        "properties": {
+          "name": "Pusat gempa berada di darat 15 km BaratDaya Sibolga",
+          "dateTime": "2023-06-27T00:27:30+00:00",
+          "magnitude": "3.2"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.486671, 17.385044]
+        },
+        "properties": {
+          "name": "Naziya Testing",
+          "dateTime": "Tuesday, 4 July 2023 (IST)Time in Hyderabad, Telangana",
+          "magnitude": "3"
+        }
+      }
+    ]
+  }
