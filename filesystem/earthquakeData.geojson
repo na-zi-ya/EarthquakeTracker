@@ -5,10 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.99,
-          121.42
-        ]
+        "coordinates": [-1.99, 121.42]
       },
       "properties": {
         "name": "Pusat gempa berada di darat 9 km timur Morowali Utara",
@@ -20,10 +17,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.74,
-          133.87
-        ]
+        "coordinates": [-1.74, 133.87]
       },
       "properties": {
         "name": "Pusat gempa berada di darat 43 km BaratDaya Ransiki",
@@ -35,10 +29,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -8.55,
-          115.87
-        ]
+        "coordinates": [-8.55, 115.87]
       },
       "properties": {
         "name": "Pusat gempa berada di laut 33 km BaratLaut Lombok Barat",
@@ -50,10 +41,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -7.89,
-          117.66
-        ]
+        "coordinates": [-7.89, 117.66]
       },
       "properties": {
         "name": "Pusat gempa berada di laut 71 km Timur Laut Sumbawa",
@@ -65,10 +53,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -8.63,
-          110.08
-        ]
+        "coordinates": [-8.63, 110.08]
       },
       "properties": {
         "name": "Pusat gempa berada di Laut 86 Km BaratDaya Bantul",
@@ -80,10 +65,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.59,
-          122.44
-        ]
+        "coordinates": [-0.59, 122.44]
       },
       "properties": {
         "name": "Pusat gempa berada dilaut 103Km BaratLaut Banggai Kepulauan",
@@ -95,10 +77,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          2.01,
-          99.03
-        ]
+        "coordinates": [2.01, 99.03]
       },
       "properties": {
         "name": "Pusat gempa berada di darat 7 km Tenggara Tapanuli Utara",
@@ -110,10 +89,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.65,
-          140.44
-        ]
+        "coordinates": [-2.65, 140.44]
       },
       "properties": {
         "name": "Pusat gempa berada di darat 8 km tenggara Jayapura",
@@ -125,10 +101,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.86,
-          122.36
-        ]
+        "coordinates": [-2.86, 122.36]
       },
       "properties": {
         "name": "Pusat gempa berada di laut 19 km Timur Laut Lafeu Kab.Morowali",
@@ -140,10 +113,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -7.35,
-          130.22
-        ]
+        "coordinates": [-7.35, 130.22]
       },
       "properties": {
         "name": "Pusat gempa berada di laut 139 km BaratLaut Tanibar",
@@ -155,10 +125,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -6.95,
-          105.4
-        ]
+        "coordinates": [-6.95, 105.4]
       },
       "properties": {
         "name": "Pusat gempa berada di laut 37 km BaratDaya Sumur",
@@ -170,10 +137,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -8.37,
-          108.92
-        ]
+        "coordinates": [-8.37, 108.92]
       },
       "properties": {
         "name": "Pusat gempa berada di laut 72 km BaratDaya Cilacap",
@@ -185,10 +149,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          5.27,
-          95.73
-        ]
+        "coordinates": [5.27, 95.73]
       },
       "properties": {
         "name": "Pusat gempa berada di darat 13 Km TimurLaut Jantho, Aceh Besar",
@@ -200,10 +161,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          2,
-          98.98
-        ]
+        "coordinates": [2, 98.98]
       },
       "properties": {
         "name": "Pusat gempa berada di darat 15 km BaratDaya Sibolga",
@@ -215,10 +173,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          2,
-          98.98
-        ]
+        "coordinates": [2, 98.98]
       },
       "properties": {
         "name": "Pusat gempa berada di darat 15 km BaratDaya Sibolga",
